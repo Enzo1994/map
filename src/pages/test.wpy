@@ -1,0 +1,14 @@
+<style lang="less" scoped>
+
+</style>
+<template>
+    <view>666
+        </view>
+</template>
+
+<script>
+  import wepy from 'wepy'
+
+export default class Test extends wepy.page {
+}
+</script>
